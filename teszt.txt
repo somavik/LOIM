@@ -1,0 +1,18 @@
+Nehézség	Kérdés	A	B	C	D	Válasz	Kategória
+1	Hol található a csarnokvíz?	a pályaudvaron	a szemben	a tejcsarnokban	barlangfürdõben	B	BIOLÓGIA
+2	Mi indul Rideg Sándor regényének címében?	a banzáj	a bakterház	a mandula	a verseny	B	FILM
+3	Melyik madarat nevezi a néphit vészmadárnak?	a seregélyt	a verebet	a kuvikot	a feketerigót	C	NYELV
+4	Melyik Európa legmagasabb mûködõ vulkánja?	Stromboli	Hekla	Szantorini	Etna	D	FÖLDRAJZ
+5	Melyik volt Koncz Zsuzsa elsõ önálló nagy slágere?	Szõke Anni balladája	Rohan az idõ	Színes ceruzák	Kis virág	A	ZENE
+6	Kik hordták eredetileg az anorákot?	a serpák	az eszkimók	a lappok	a nyenyecek	B	TÖRTÉNELEM
+1	Melyik jármûrõl elnevezett együttes tagja volt Zorán a 60-as években?	Villamos	HÉV	Autóbusz	Metró	D	ZENE
+2	Hogyan vágtatott a Tisza Petõfi verse szerint?	mint a megvadult bika	mint a forgószél	mint az õrült, ki letépte láncát	mint a menekülõ, kit kerget a tatár	C	IRODALOM
+3	Mivel foglalkozik az, akinek az ikebana a hobbija?	keleti küzdõsporttal	virágokkal	papírhajtogatással	japán kakasokkal	B	ÁLTALÁNOS
+4	Hány játékos van egyszerre a pályán egy kosárlabda-csapatból?	négy	hét	hat	öt	D	SPORT
+5	Kiknek az érdekeit képviseli az UNICEF?	szakszervezetek	gyerekek	állatvédõk	dolgozók	B	ÁLTALÁNOS
+6	Hogyan nevezték kedveskedve a homlokba hulló kis fodor nõi hajfürtöt?	huncutka	mucika	pöndörke	tekercske	A	ÁLTALÁNOS
+7	Milyen egységben mérik a hang rezgésszámát?	tonban	decibelben	hertzben	luxban	C	TUDOMÁNY
+8	Milyen nõt ábrázol Munkácsy ismert, 1873-as képe?	korsóvívõ	bordóruhás	rõzsehordó	gyermekét tartó	C	KÉPZÕMÛVÉSZET
+9	Mi volt a neve George Stephenson elsõ mozdonyának?	George	Mylord	Rocket	Locomotive	B	TECHNIKA
+10	Ki volt a gyermekorvostan elsõ tanára hazánkban?	id. Bókay János	Heim Pál	Schöpf-Mérei Ágoston	Korányi Sándor	A	BIOLÓGIA
+1	Hogy nevezzük másképpen a kárókatonát?	obsitos	treff bubi	bölönbika	kormorán	D	BIOLÓGIA
